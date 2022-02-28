@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "interview-management-portal",
+  "private_key_id": "8b0583aff84aa8b385cdcfa50227385a0874c54f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCM/UHgOEraBmlp\nPTYv2DvjOWXW2uguGoShLmpjBB7S8Rp9h7unYLpPq1MWQfNrXLYyM+u6RPyFPFQ/\nBUTp9w2WVUXp+IvXVQZjhv8N88AFCQneKlLXQSaRL64zTKUxlf0VN3TXBQxKlkFS\nYTmsfbcslq7HgH3FsreuxyWE153HrFW5M81mOvFYTzUaHyDjFP1X+luHRyeGJt47\nvY9kqOpKWdLq22yzrgC8hcM225CPl2OM4LAXgjy/pssHljybiivAReKPygiqTMZn\nUft8jjTpbUey6bmq58r5cd38IuIQU+svp+Wq79EVgtny9QClpj20XhyACQKA4hIf\nplKKEAxXAgMBAAECggEAFJzUPEFOpDiKwcGawfz1qH9URcjEaDUlTeFY2XgZP5LT\nYiXtiAeKxaoRIDBtM7Wex5Eytg1u89XBpWMSU7h0apW1/oKBg25hXDy43mPUH4hW\nQn5ilSjnyBM1/zcF8c1xbmAou2T4CpGUJESlp3PLy3+ONwmwma5Kz4k7EYRqg24V\nkMaviJKmMEfJq//qOL3M3e+S8rXbb5+/Cu1U7ObbLzhOMO52D7TjvKGDfI1KqIH+\nDDFwcHcc6Gx2DHiV2/6a889WafGHl88H2n/KjvdJ0WQaGxuBTycyKIoHWNW0CCam\n8h0anYexKmu3bI3F67GLSfYexTGqaIYpVdgcUlujZQKBgQDGtwKZp73qS47I8+Re\nU6dAQq8J0nZSUpVH/A26eZ34u0ztGskDUf0Cv1TUcx+uquj/faEcARNYhwc9uH6q\n5p7M/42BhMkLkMZqBYuscidimT/2tuWPmdp+tQhhICMrXAJfNoMx5QgrKf+bg6EN\nj/iSkoxetUyFAIy2VnbpUXBhMwKBgQC1oiWmz/GeW0pQ7eDtepMWcvg6kvt/b8lb\nSmChMuugquQWjcDeNzKMzAlR4x7M/d9WSAnDuojg1yHYA8UfGNikYfF02NQkKnzR\nclzdMA028Tx3MvxkPbzodI2dHKD2GNqikdYXX/Cv3pWQNkCvuqaMbsv2zNJvvIOj\nXRktVVHwTQKBgEDdoqKnx+3ARlbAjm5gHjtyyRKKugb7YDGETLLvWirEcUMAuFc2\nH0ITVMyY2+G3dqFX0AyFKVx/j1SNcgO1jmbakMWTo9D7rFkVgFeFV+fuoJuXbm4m\nydUMoTSbOf/AZCHSeJcD7VuxtPd9y0fTFFA8OEf+JIFSAZzPsrdM10NTAoGBAK5n\nE2ApKwezAJjU0LU2jSVxH4ieuX6UB/PwZvhhvH55mKlPU3IL7i3jfM90FY8f9eMT\nKM0Xv3alG4oflJdXdC3jHcXkrU5Mva0e8qwwB4BKApUyD8bwwQMzZwcFBklHdCfF\ngJzRMnqsb1AZx+L0hhcyDAbehPFlQcELE7HDyvnBAoGAOt8CZR/scZxf4Nzi3/Ei\nSorWBqoihCwVNa2L1DqerVrLWUWaKPo4dX8qu6o7DWV+NV71B8Ixqe//tK4Enlhh\nFMKXwf7rFKYnAPWjR5wZeVHEnlyRirGV7jIUw2xmXJqqKSoKKwfScRn54Vm7dXNB\n15RrMFCOrQuizRqEe2yOj1A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tpaoy@interview-management-portal.iam.gserviceaccount.com",
+  "client_id": "111503325320619420364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tpaoy%40interview-management-portal.iam.gserviceaccount.com"
+}
