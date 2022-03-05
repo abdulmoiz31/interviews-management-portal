@@ -41,9 +41,6 @@ class DbOperations
       data = { candidate_name: interview[:candidate_name], stack: interview[:stack], interviewers: interview[:interviewers]}
       interviews_ref = @firestore.col 'interviews'
       interviews_ref.doc("#{id}").set(data)
-      file = {id: id, data:interview[:file], name:interview[:file_name]}
-      result = @azure.add_file(file)
-      puts result
     end
     
 end

@@ -15,7 +15,7 @@ gem 'puma', '~> 5.0'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'jwt'
 gem 'google-cloud-firestore'
-gem 'tiny_tds'
+#gem 'tiny_tds'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false

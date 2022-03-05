@@ -1,4 +1,4 @@
-require 'tiny_tds'
+#require 'tiny_tds'
 class AzureDb
     def initialize()
       server = 'interview-management-portal.database.windows.net'
