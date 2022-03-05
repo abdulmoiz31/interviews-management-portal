@@ -6,7 +6,6 @@ class DbOperations
         project_id: "interview-management-portal",
         credentials: "app/assets/db/keyfile.json"
       )
-      @azure = AzureDb.new
     end
 
     def add_user(user)
