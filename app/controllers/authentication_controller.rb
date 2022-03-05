@@ -26,8 +26,10 @@ class AuthenticationController < ApplicationController
         if user == nil
             @firestore.add_user(params)
             render json: { message: 'User added successfully' }, status: :created
+        else
+          render json: { error: 'Email already registered' }, status: :bad_request
         end
-        render json: { error: 'Email already registered' }, status: :bad_request
+        
     end
 
     def change_password
