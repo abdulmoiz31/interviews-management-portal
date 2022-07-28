@@ -1,10 +1,10 @@
 #require 'tiny_tds'
 class AzureDb
     def initialize()
-      server = 'interview-management-portal.database.windows.net'
-      database = 'files'
-      username = 'madteam'
-      password = 'systems123!'
+      server = ********
+      database = ******
+      username = ******
+      password = *******
       @client = TinyTds::Client.new username: username, password: password, 
           host: server, port: 1433, database: database, azure: true
     end
