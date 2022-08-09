@@ -1,24 +1,18 @@
-# README
+ # README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => 3.0.2
 
-* System dependencies
+* gems used for databases tiny_tds (for Azure) and google_cloud_firestore (for firebase firestore)
 
-* Configuration
+* run 'bundle install' to install all the gems listed in gemfile
 
-* Database creation
+* create database on firebase firestore or azure firebase and azure will provide a json file with credentials and a piece of code in ruby to connect to db
 
-* Database initialization
+* paste the code and credentials in azuredb.rb to integrate with database.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 'bundle install' to install all the gems and then 'rails s' to start server.
